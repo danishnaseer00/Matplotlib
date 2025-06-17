@@ -1,4 +1,4 @@
-#### 📊 Data Visualization with Matplotlib
+## 📊 Data Visualization with Matplotlib
 
 This repository contains a beginner-friendly Jupyter Notebook demonstrating the use of Matplotlib for creating various types of plots in Python. It is intended to help new data scientists, analysts, and Python enthusiasts learn how to visualize data effectively using Matplotlib's powerful plotting capabilities.
 
@@ -29,17 +29,13 @@ Scatter plots to show relationships.
 ### 🛠️ Getting Started
 
 Prerequisites
-Ensure you have the following installed:
 
-Python 3.7+
-
-Jupyter Notebook or JupyterLab
-
-matplotlib library
+    Ensure you have the following installed:
+    Python 3.7+
+    Jupyter Notebook or JupyterLab
+    matplotlib library
 
 You can install required packages with:
 
-bash
-Copy
-Edit
-pip install matplotlib notebook
+   - pip install matplotlib
+   - pip install numpy
