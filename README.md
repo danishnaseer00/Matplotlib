@@ -1,4 +1,5 @@
 📊 Data Visualization with Matplotlib
+
 This repository contains a beginner-friendly Jupyter Notebook demonstrating the use of Matplotlib for creating various types of plots in Python. It is intended to help new data scientists, analysts, and Python enthusiasts learn how to visualize data effectively using Matplotlib's powerful plotting capabilities.
 
 📁 Project Structure
@@ -33,5 +34,7 @@ matplotlib library
 
 You can install required packages with:
 
-pip install matplotlib 
-pip install numpy
+bash
+Copy
+Edit
+pip install matplotlib notebook
